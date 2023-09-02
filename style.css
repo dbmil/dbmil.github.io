@@ -1,6 +1,6 @@
 @font-face {
 font-family: Liberator;
-src: url("/Liberator-Medium.otf");
+src: url("Liberator-Medium.otf");
 }
 
 body {
@@ -383,7 +383,7 @@ right: 0;
 
 .footer .mission .title {
 color: #fff;
-font-size: 3vw;
+font-size: 2vw;
 width: 100%;
 height: auto;
 padding: .5vw;
