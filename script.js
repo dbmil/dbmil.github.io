@@ -1,6 +1,6 @@
-var titles = ["NEWEST COUNTRY GAME", "COMMONWEALTH OF NATIONS", "NEW WEBSITE"];
-var dates = ["12/12/23", "9/2/23", "9/2/23"];
-var articles = ["The newest country game of 2023 it looking for more people to sign up! If you are interested in participating, fill out the form link in this article. https://forms.gle/mNCVJAnmwjcGRiXk7", "The Dingabadonga Military starts the new school year off with new alliances. The Commonwealth of Nations, owned by Adam Olszewski, is the new country game for this school year.", "The Dingabadonga Military launches their new website. This new website has a better design and includes all of the same features from the original website. Site security and user accessibility has also been improved."];
+var titles = ["ALLIANCE WITH BRAZIL", "NEWEST COUNTRY GAME", "COMMONWEALTH OF NATIONS", "NEW WEBSITE"];
+var dates = ["3/4/24", "12/12/23", "9/2/23", "9/2/23"];
+var articles = ["The Dingabadonga Military has allied with Brazil, a county owned by Andrew Fogelsonger, in Adam's 2024 country game.", "The newest country game of 2023 it looking for more people to sign up! If you are interested in participating, fill out the form link in this article. https://forms.gle/mNCVJAnmwjcGRiXk7", "The Dingabadonga Military starts the new school year off with new alliances. The Commonwealth of Nations, owned by Adam Olszewski, is the new country game for this school year.", "The Dingabadonga Military launches their new website. This new website has a better design and includes all of the same features from the original website. Site security and user accessibility has also been improved."];
 var article = 0;
 function right() {
 article += 1;
